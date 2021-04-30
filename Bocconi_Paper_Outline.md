@@ -19,9 +19,21 @@ In this section, multiple datasets (at least 2, for regression and classificatio
 2. Recognize the algorithm and its set of hyperparameters that the most accurate competitor has utilized.
 3. Create multiple artificially damaged datasets based on some policy (The random method is something that could make sense) [1 -> n] datasets
 4. Impute the missing values on various imputation methods mentioned in previous sections, and run the ML algorithms on the imputed dataset. Record the accuracies.
-5. Conduct 3,4,5 multiple times (30+ for the sake of ease of experimentation due to the central limit theorem) to conduct a statistical hypothesis testing, to eventually find a statistically significant (inferior) imputation method against the accuracy with dataset w/o missing values.
+5. Conduct 3,4 multiple times (30+ for the sake of ease of experimentation due to the central limit theorem) to conduct a statistical hypothesis testing, to eventually find a statistically significant (inferior, or that the original accuracy being "statistically significant to be superior") imputation method against the accuracy with dataset w/o missing values.
+6. Repeat 3-5 multiple times for different "missing rates"
 
-Conduct 1-5 for multiple datasets for both regression and classification.
+Conduct 1-6 for multiple datasets for both regression and classification.
 
 
-## Comments on Results
+## Result Description
+This section is solely for expressing the massive experimentation result obtained in previous section, in various methods. (Table, plotting, etc.)
+
+## Hypothesis Testing
+Based on sections above, this section is dedicated for recognizing if the imputation methods have created any statistically significant differences.
+Having the distribution of accuracies obtained under an imputation method, we see if the original accuracy under the full dataset is significantly superior or not.
+
+## Result Evaluation under the experiments
+Based on the hypothesis testing mentioned above, the paper suggests which method performed the best, worst, everything in between, under the experiment conducted. This is not an evaluation of absolute and global "ranking" of the imputation methods, but rather a mere observation on how some methods yielded different result in reaction to the experiment environment given.
+
+## Business Implications and Potential Danger (Potentially fusioned with conclusion)
+This section turn more theoretical, on how continuation on researching of imputation methods are crucial, by demonstrating potential changes and inaccuracies in conclusion drawn and some risks that would come with that decision, as a consequence.
