@@ -2,13 +2,13 @@
 Thesis Type: **Empirical**
 
 ## Introduction and history on roles of data imputation
-The aim of the first section of the  paper should play a role to justify the relevance of the material, which in this case is data imputation on missing values.
+The first section of the paper should play a role to justify the relevance of the material, which in this case is data imputation on missing values.
 The introduction would explain the history of data analytics in general into the direction of handling missing values. The aim is to follow the trails of footprints that the data analytics field has had in the past, and explain not only the importance of data imputation itself (why it is crucial to have), but also the methods of execution. (why it is crucial to do it right.)
 
 
 
 ## Exposure to Various Imputation Methods
-In this part of the paper introduces the various methods of imputation there are available to pick from, and its algorithmic/mathematical structure. Some of the members that will have its name in this section are quite trivial (ex. deleting datapoint, mean, forward fill, etc.), and does require less explanation. However, there are some methods that would be more complex to explain and go through, especially ones that involve complex algorithms like deep learning.
+This part of the paper introduces the various methods of imputation taht are available to pick from, and its algorithmic/mathematical structure. Some of the members that will have its name in this section are quite trivial (ex. deleting datapoint, mean, forward fill, etc.), and does require less explanation. However, there are some methods that would be more complex to explain and go through, especially ones that involve complex algorithms like deep learning.
 
 
 ## Empirical Section
