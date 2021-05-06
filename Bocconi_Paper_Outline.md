@@ -16,13 +16,16 @@ In this section, multiple datasets (at least 2, for regression and classificatio
 
 1. Take a dataset from a famous Data analytics/ML competition sites such as Kaggle.
     (Assume there are no missing values in the original dataset)
-2. Recognize the algorithm and its set of hyperparameters that the most accurate competitor has utilized.
+2. Use an open source Auto-ML platform on all of them to perform an analysis.
+In this experiment, we will utilize the AutoML tool provided by H2O, an open-source library also providing versions on Python.
 3. Create multiple artificially damaged datasets based on some policy (The random method is something that could make sense) [1 -> n] datasets
 4. Impute the missing values on various imputation methods mentioned in previous sections, and run the ML algorithms on the imputed dataset. Record the accuracies.
 5. Conduct 3,4 multiple times (30+ for the sake of ease of experimentation due to the central limit theorem) to conduct a statistical hypothesis testing, to eventually find a statistically significant (inferior, or that the original accuracy being "statistically significant to be superior") imputation method against the accuracy with dataset w/o missing values.
 6. Repeat 3-5 multiple times for different "missing rates"
 
 Conduct 1-6 for multiple datasets for both regression and classification.
+
+**Note** : I have decided to utilize an Auto-ML tool to take control of the bias. We do have a bias, of course, but it is algorithmic, and the variance of the bias among different datasets/scenarios are minimal. With regards to the H2O AutoML library, refer to [here](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) 
 
 
 ## Result Description
