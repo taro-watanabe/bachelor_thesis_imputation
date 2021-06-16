@@ -1,0 +1,7 @@
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}

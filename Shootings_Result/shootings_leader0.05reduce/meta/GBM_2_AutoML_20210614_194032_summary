@@ -1,0 +1,7 @@
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             30.0 &                    1380.0 &            1043843.0 &        1.0 &        7.0 &    6.911594 &         2.0 &        28.0 &     19.97971 \\
+\bottomrule
+\end{tabular}

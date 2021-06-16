@@ -1,0 +1,13 @@
+\begin{tabular}{llllrrrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_logloss &  training\_classification\_error &  training\_auc &  training\_pr\_auc \\
+\midrule
+0 &   &  2021-06-14 16:03:55 &  20.976 sec &              0.0 &       0.978261 &          3.828641 &                       0.957386 &           NaN &              NaN \\
+1 &   &  2021-06-14 16:03:55 &  21.691 sec &              5.0 &       0.479952 &          0.654609 &                       0.014205 &           NaN &              NaN \\
+2 &   &  2021-06-14 16:03:56 &  22.361 sec &             10.0 &       0.271861 &          0.302382 &                       0.000000 &           NaN &              NaN \\
+3 &   &  2021-06-14 16:03:57 &  23.026 sec &             15.0 &       0.143224 &          0.137384 &                       0.000000 &           NaN &              NaN \\
+4 &   &  2021-06-14 16:03:58 &  23.834 sec &             20.0 &       0.075185 &          0.063541 &                       0.000000 &           NaN &              NaN \\
+5 &   &  2021-06-14 16:03:58 &  24.680 sec &             25.0 &       0.045137 &          0.030556 &                       0.000000 &           NaN &              NaN \\
+6 &   &  2021-06-14 16:03:59 &  25.379 sec &             30.0 &       0.028735 &          0.015412 &                       0.000000 &           NaN &              NaN \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,309 @@
+\resizebox{\textheight}{!}{\begin{tabular}{llrrlllllllllll}
+\toprule
+{} &  layer &  units &              type & dropout &   l1 &   l2 & mean\_rate &  rate\_rms & momentum & mean\_weight & weight\_rms & mean\_bias &  bias\_rms \\
+\midrule
+0 &   &      1 &    151 &             Input &    20.0 &      &      &           &           &          &             &            &           &           \\
+1 &   &      2 &     50 &  RectifierDropout &    40.0 &  0.0 &  0.0 &  0.333948 &  0.352809 &      0.0 &   -0.092163 &   0.288367 & -1.062524 &  0.635189 \\
+2 &   &      3 &      1 &            Linear &         &  0.0 &  0.0 &  0.027432 &  0.080103 &      0.0 &    0.388787 &   1.016308 & -0.047724 &       0.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrlllllllllll}
+\toprule
+{} &  layer &  units &              type & dropout &   l1 &   l2 & mean\_rate &  rate\_rms & momentum & mean\_weight & weight\_rms & mean\_bias &   bias\_rms \\
+\midrule
+0 &   &      1 &    143 &             Input &    20.0 &      &      &           &           &          &             &            &           &            \\
+1 &   &      2 &     50 &  RectifierDropout &    40.0 &  0.0 &  0.0 &  0.329088 &  0.333529 &      0.0 &   -0.112217 &   0.332528 &  4.623993 &  12.587547 \\
+2 &   &      3 &     50 &  RectifierDropout &    40.0 &  0.0 &  0.0 &   0.02697 &  0.102561 &      0.0 &   -0.004497 &   0.381097 &  1.292102 &   0.403572 \\
+3 &   &      4 &      1 &            Linear &         &  0.0 &  0.0 &  0.002116 &  0.002076 &      0.0 &    0.105336 &   0.342573 &  0.702968 &        0.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrlllllllllll}
+\toprule
+{} &  layer &  units &              type & dropout &   l1 &   l2 & mean\_rate &  rate\_rms & momentum & mean\_weight & weight\_rms & mean\_bias &  bias\_rms \\
+\midrule
+0 &   &      1 &    149 &             Input &    20.0 &      &      &           &           &          &             &            &           &           \\
+1 &   &      2 &     50 &  RectifierDropout &    40.0 &  0.0 &  0.0 &  0.379439 &  0.386294 &      0.0 &   -0.080842 &   0.337225 &  6.032199 &  14.46669 \\
+2 &   &      3 &     50 &  RectifierDropout &    40.0 &  0.0 &  0.0 &  0.052106 &  0.164638 &      0.0 &    0.024929 &   0.368931 &  1.092716 &  0.363234 \\
+3 &   &      4 &      1 &            Linear &         &  0.0 &  0.0 &  0.001414 &   0.00161 &      0.0 &    0.098574 &   0.247281 & -0.018431 &       0.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             53.0 &                      53.0 &              21685.0 &        6.0 &        6.0 &         6.0 &        14.0 &        40.0 &     23.37736 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             46.0 &                      46.0 &              17452.0 &        6.0 &        6.0 &         6.0 &        13.0 &        39.0 &    21.086956 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             66.0 &                      66.0 &              32625.0 &        6.0 &        6.0 &         6.0 &        21.0 &        40.0 &    27.484848 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             61.0 &                      61.0 &              31428.0 &        6.0 &        6.0 &         6.0 &        21.0 &        45.0 &    29.131147 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             54.0 &                      54.0 &              24298.0 &        6.0 &        6.0 &         6.0 &        12.0 &        42.0 &     25.25926 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             46.0 &                      46.0 &              20539.0 &        6.0 &        6.0 &         6.0 &        15.0 &        45.0 &     25.23913 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             47.0 &                      47.0 &              25853.0 &        6.0 &        6.0 &         6.0 &        22.0 &        51.0 &    30.914894 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             39.0 &                      39.0 &              18447.0 &        6.0 &        6.0 &         6.0 &        15.0 &        40.0 &     27.02564 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             43.0 &                      43.0 &              19250.0 &        6.0 &        6.0 &         6.0 &        16.0 &        42.0 &    25.976744 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             63.0 &                      63.0 &              36660.0 &        6.0 &        6.0 &         6.0 &        17.0 &        49.0 &    33.031746 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             54.0 &                      54.0 &              24965.0 &        6.0 &        6.0 &         6.0 &        19.0 &        31.0 &    26.074074 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{ll}
+\toprule
+{} &                   Placeholder \\
+\midrule
+0 &  Stackensenble has no summary \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{ll}
+\toprule
+{} &                   Placeholder \\
+\midrule
+0 &  Stackensenble has no summary \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{ll}
+\toprule
+{} &                   Placeholder \\
+\midrule
+0 &  Stackensenble has no summary \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{ll}
+\toprule
+{} &                   Placeholder \\
+\midrule
+0 &  Stackensenble has no summary \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{ll}
+\toprule
+{} &                   Placeholder \\
+\midrule
+0 &  Stackensenble has no summary \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             37.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             49.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             35.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             49.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             37.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             40.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             43.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             33.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             50.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             31.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             33.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             31.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             33.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             33.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             32.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             53.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             36.0 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             47.0 &                      47.0 &             147677.0 &       20.0 &       20.0 &        20.0 &       102.0 &       258.0 &    189.93617 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             40.0 &                      40.0 &             113865.0 &       20.0 &       20.0 &        20.0 &       105.0 &       240.0 &      174.725 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             47.0 &                      47.0 &             148474.0 &       20.0 &       20.0 &        20.0 &        81.0 &       256.0 &    192.31915 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             46.0 &                      46.0 &             140451.0 &       20.0 &       20.0 &        20.0 &        86.0 &       233.0 &    187.71739 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             42.0 &                      42.0 &             120822.0 &       20.0 &       20.0 &        20.0 &        89.0 &       247.0 &    179.04762 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             42.0 &                      42.0 &             130308.0 &       20.0 &       20.0 &        20.0 &       101.0 &       254.0 &    194.19048 \\
+\bottomrule
+\end{tabular}}}
+\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             38.0 &                      38.0 &             120693.0 &       20.0 &       20.0 &        20.0 &       119.0 &       270.0 &     195.3158 \\
+\bottomrule
+\end{tabular}}}

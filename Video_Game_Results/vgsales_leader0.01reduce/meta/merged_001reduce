@@ -1,0 +1,1054 @@
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-29 22:51:05 &   2.367 sec &              0.0 &       2.984155 &      0.784643 &           8.905180 \\
+1  &   &  2021-05-29 22:51:05 &   2.418 sec &              5.0 &       1.805334 &      0.495920 &           3.259232 \\
+2  &   &  2021-05-29 22:51:05 &   2.487 sec &             10.0 &       1.155290 &      0.302627 &           1.334696 \\
+3  &   &  2021-05-29 22:51:05 &   2.561 sec &             15.0 &       0.713081 &      0.203645 &           0.508485 \\
+4  &   &  2021-05-29 22:51:05 &   2.615 sec &             20.0 &       0.439247 &      0.134104 &           0.192938 \\
+5  &   &  2021-05-29 22:51:05 &   2.680 sec &             25.0 &       0.281492 &      0.085940 &           0.079238 \\
+6  &   &  2021-05-29 22:51:05 &   2.738 sec &             30.0 &       0.181303 &      0.058314 &           0.032871 \\
+7  &   &  2021-05-29 22:51:05 &   2.786 sec &             35.0 &       0.124986 &      0.043855 &           0.015622 \\
+8  &   &  2021-05-29 22:51:05 &   2.818 sec &             40.0 &       0.087325 &      0.034060 &           0.007626 \\
+9  &   &  2021-05-29 22:51:05 &   2.849 sec &             45.0 &       0.063810 &      0.027896 &           0.004072 \\
+10 &   &  2021-05-29 22:51:05 &   2.874 sec &             50.0 &       0.051121 &      0.024148 &           0.002613 \\
+11 &   &  2021-05-29 22:51:05 &   2.896 sec &             55.0 &       0.044195 &      0.021854 &           0.001953 \\
+12 &   &  2021-05-29 22:51:05 &   2.928 sec &             60.0 &       0.037123 &      0.019283 &           0.001378 \\
+13 &   &  2021-05-29 22:51:05 &   2.938 sec &             62.0 &       0.035295 &      0.018589 &           0.001246 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             62.0 &                      62.0 &              43316.0 &        6.0 &        6.0 &         6.0 &        21.0 &        56.0 &     36.79032 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-30 15:34:24 &   2.350 sec &              0.0 &       1.817026 &      0.655342 &           3.301582 \\
+1  &   &  2021-05-30 15:34:24 &   2.376 sec &              5.0 &       1.196288 &      0.412825 &           1.431104 \\
+2  &   &  2021-05-30 15:34:24 &   2.398 sec &             10.0 &       0.710388 &      0.246436 &           0.504652 \\
+3  &   &  2021-05-30 15:34:24 &   2.421 sec &             15.0 &       0.472185 &      0.164246 &           0.222959 \\
+4  &   &  2021-05-30 15:34:24 &   2.444 sec &             20.0 &       0.296228 &      0.105699 &           0.087751 \\
+5  &   &  2021-05-30 15:34:24 &   2.468 sec &             25.0 &       0.183230 &      0.066624 &           0.033573 \\
+6  &   &  2021-05-30 15:34:24 &   2.487 sec &             30.0 &       0.112845 &      0.044627 &           0.012734 \\
+7  &   &  2021-05-30 15:34:24 &   2.507 sec &             35.0 &       0.078590 &      0.033780 &           0.006176 \\
+8  &   &  2021-05-30 15:34:24 &   2.542 sec &             40.0 &       0.055355 &      0.026863 &           0.003064 \\
+9  &   &  2021-05-30 15:34:24 &   2.595 sec &             45.0 &       0.040418 &      0.022558 &           0.001634 \\
+10 &   &  2021-05-30 15:34:24 &   2.632 sec &             50.0 &       0.032265 &      0.019541 &           0.001041 \\
+11 &   &  2021-05-30 15:34:25 &   2.674 sec &             55.0 &       0.027786 &      0.017608 &           0.000772 \\
+12 &   &  2021-05-30 15:34:25 &   2.698 sec &             59.0 &       0.024056 &      0.015616 &           0.000579 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             59.0 &                      59.0 &              40693.0 &        6.0 &        6.0 &         6.0 &        27.0 &        59.0 &     35.33898 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-30 17:48:28 &   0.778 sec &              0.0 &       1.703037 &      0.610866 &           2.900335 \\
+1  &   &  2021-05-30 17:48:28 &   0.791 sec &              5.0 &       1.073772 &      0.386143 &           1.152986 \\
+2  &   &  2021-05-30 17:48:28 &   0.803 sec &             10.0 &       0.652544 &      0.233617 &           0.425814 \\
+3  &   &  2021-05-30 17:48:28 &   0.814 sec &             15.0 &       0.415511 &      0.158745 &           0.172650 \\
+4  &   &  2021-05-30 17:48:28 &   0.825 sec &             20.0 &       0.274469 &      0.105387 &           0.075333 \\
+5  &   &  2021-05-30 17:48:28 &   0.837 sec &             25.0 &       0.175622 &      0.067767 &           0.030843 \\
+6  &   &  2021-05-30 17:48:28 &   0.847 sec &             30.0 &       0.108358 &      0.045675 &           0.011741 \\
+7  &   &  2021-05-30 17:48:28 &   0.859 sec &             35.0 &       0.077230 &      0.035772 &           0.005965 \\
+8  &   &  2021-05-30 17:48:28 &   0.870 sec &             40.0 &       0.056088 &      0.027946 &           0.003146 \\
+9  &   &  2021-05-30 17:48:28 &   0.882 sec &             45.0 &       0.043445 &      0.023959 &           0.001887 \\
+10 &   &  2021-05-30 17:48:28 &   0.893 sec &             50.0 &       0.035274 &      0.021014 &           0.001244 \\
+11 &   &  2021-05-30 17:48:28 &   0.907 sec &             55.0 &       0.030932 &      0.019099 &           0.000957 \\
+12 &   &  2021-05-30 17:48:28 &   0.921 sec &             60.0 &       0.026075 &      0.016521 &           0.000680 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             60.0 &                      60.0 &              41608.0 &        6.0 &        6.0 &         6.0 &        19.0 &        56.0 &    34.216667 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-30 18:17:49 &   0.600 sec &              0.0 &       2.908120 &      0.742227 &           8.457162 \\
+1  &   &  2021-05-30 18:17:49 &   0.612 sec &              5.0 &       1.754634 &      0.459734 &           3.078740 \\
+2  &   &  2021-05-30 18:17:49 &   0.623 sec &             10.0 &       1.275850 &      0.286403 &           1.627793 \\
+3  &   &  2021-05-30 18:17:49 &   0.633 sec &             15.0 &       0.827492 &      0.191759 &           0.684744 \\
+4  &   &  2021-05-30 18:17:49 &   0.643 sec &             20.0 &       0.608383 &      0.126747 &           0.370130 \\
+5  &   &  2021-05-30 18:17:49 &   0.655 sec &             25.0 &       0.359360 &      0.077918 &           0.129140 \\
+6  &   &  2021-05-30 18:17:49 &   0.666 sec &             30.0 &       0.220483 &      0.051191 &           0.048613 \\
+7  &   &  2021-05-30 18:17:49 &   0.678 sec &             35.0 &       0.153039 &      0.038534 &           0.023421 \\
+8  &   &  2021-05-30 18:17:49 &   0.689 sec &             40.0 &       0.102056 &      0.029290 &           0.010415 \\
+9  &   &  2021-05-30 18:17:49 &   0.703 sec &             45.0 &       0.071842 &      0.023800 &           0.005161 \\
+10 &   &  2021-05-30 18:17:49 &   0.716 sec &             50.0 &       0.050867 &      0.020448 &           0.002587 \\
+11 &   &  2021-05-30 18:17:49 &   0.719 sec &             52.0 &       0.044773 &      0.019543 &           0.002005 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             52.0 &                      52.0 &              32958.0 &        6.0 &        6.0 &         6.0 &        25.0 &        55.0 &    33.346153 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-30 18:22:58 &   0.951 sec &              0.0 &       1.864385 &      0.670525 &           3.475930 \\
+1  &   &  2021-05-30 18:22:58 &   0.964 sec &              5.0 &       1.149420 &      0.422612 &           1.321165 \\
+2  &   &  2021-05-30 18:22:58 &   0.976 sec &             10.0 &       0.705402 &      0.254325 &           0.497592 \\
+3  &   &  2021-05-30 18:22:58 &   0.987 sec &             15.0 &       0.464923 &      0.171260 &           0.216153 \\
+4  &   &  2021-05-30 18:22:58 &   0.998 sec &             20.0 &       0.293574 &      0.112260 &           0.086186 \\
+5  &   &  2021-05-30 18:22:58 &   1.010 sec &             25.0 &       0.188226 &      0.072118 &           0.035429 \\
+6  &   &  2021-05-30 18:22:58 &   1.021 sec &             30.0 &       0.121794 &      0.049329 &           0.014834 \\
+7  &   &  2021-05-30 18:22:58 &   1.033 sec &             35.0 &       0.080690 &      0.036779 &           0.006511 \\
+8  &   &  2021-05-30 18:22:58 &   1.058 sec &             40.0 &       0.057510 &      0.028547 &           0.003307 \\
+9  &   &  2021-05-30 18:22:58 &   1.079 sec &             45.0 &       0.043093 &      0.023330 &           0.001857 \\
+10 &   &  2021-05-30 18:22:58 &   1.093 sec &             50.0 &       0.034892 &      0.020187 &           0.001217 \\
+11 &   &  2021-05-30 18:22:58 &   1.105 sec &             55.0 &       0.029878 &      0.017925 &           0.000893 \\
+12 &   &  2021-05-30 18:22:58 &   1.119 sec &             60.0 &       0.024964 &      0.015533 &           0.000623 \\
+13 &   &  2021-05-30 18:22:58 &   1.122 sec &             61.0 &       0.024428 &      0.015264 &           0.000597 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             61.0 &                      61.0 &              44222.0 &        6.0 &        6.0 &         6.0 &        29.0 &        57.0 &    38.639343 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-30 21:47:06 &   2.806 sec &              0.0 &       2.990273 &      0.801592 &           8.941730 \\
+1  &   &  2021-05-30 21:47:06 &   2.851 sec &              5.0 &       1.861119 &      0.504439 &           3.463763 \\
+2  &   &  2021-05-30 21:47:06 &   2.902 sec &             10.0 &       1.153548 &      0.305748 &           1.330672 \\
+3  &   &  2021-05-30 21:47:06 &   2.951 sec &             15.0 &       0.694407 &      0.199593 &           0.482201 \\
+4  &   &  2021-05-30 21:47:06 &   2.980 sec &             20.0 &       0.425788 &      0.131868 &           0.181296 \\
+5  &   &  2021-05-30 21:47:06 &   3.010 sec &             25.0 &       0.272294 &      0.083912 &           0.074144 \\
+6  &   &  2021-05-30 21:47:06 &   3.041 sec &             30.0 &       0.183299 &      0.056236 &           0.033598 \\
+7  &   &  2021-05-30 21:47:06 &   3.066 sec &             35.0 &       0.133733 &      0.043053 &           0.017885 \\
+8  &   &  2021-05-30 21:47:06 &   3.092 sec &             40.0 &       0.084236 &      0.032371 &           0.007096 \\
+9  &   &  2021-05-30 21:47:06 &   3.119 sec &             45.0 &       0.062500 &      0.026170 &           0.003906 \\
+10 &   &  2021-05-30 21:47:06 &   3.149 sec &             50.0 &       0.048163 &      0.022531 &           0.002320 \\
+11 &   &  2021-05-30 21:47:06 &   3.160 sec &             52.0 &       0.042748 &      0.021473 &           0.001827 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             52.0 &                      52.0 &              32904.0 &        6.0 &        6.0 &         6.0 &        26.0 &        54.0 &    33.826923 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-30 21:48:47 &   2.420 sec &              0.0 &       1.763963 &      0.633920 &           3.111567 \\
+1  &   &  2021-05-30 21:48:47 &   2.444 sec &              5.0 &       1.070681 &      0.400566 &           1.146358 \\
+2  &   &  2021-05-30 21:48:47 &   2.470 sec &             10.0 &       0.641838 &      0.241469 &           0.411957 \\
+3  &   &  2021-05-30 21:48:47 &   2.495 sec &             15.0 &       0.416998 &      0.163547 &           0.173887 \\
+4  &   &  2021-05-30 21:48:47 &   2.526 sec &             20.0 &       0.264430 &      0.106632 &           0.069923 \\
+5  &   &  2021-05-30 21:48:47 &   2.555 sec &             25.0 &       0.164659 &      0.066957 &           0.027112 \\
+6  &   &  2021-05-30 21:48:47 &   2.580 sec &             30.0 &       0.105117 &      0.044458 &           0.011050 \\
+7  &   &  2021-05-30 21:48:47 &   2.606 sec &             35.0 &       0.071970 &      0.032938 &           0.005180 \\
+8  &   &  2021-05-30 21:48:47 &   2.632 sec &             40.0 &       0.048816 &      0.024624 &           0.002383 \\
+9  &   &  2021-05-30 21:48:47 &   2.656 sec &             45.0 &       0.038350 &      0.020847 &           0.001471 \\
+10 &   &  2021-05-30 21:48:47 &   2.681 sec &             50.0 &       0.030675 &      0.018025 &           0.000941 \\
+11 &   &  2021-05-30 21:48:47 &   2.701 sec &             55.0 &       0.027052 &      0.016487 &           0.000732 \\
+12 &   &  2021-05-30 21:48:47 &   2.719 sec &             59.0 &       0.023857 &      0.014994 &           0.000569 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             59.0 &                      59.0 &              40772.0 &        6.0 &        6.0 &         6.0 &        22.0 &        45.0 &    35.372883 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-30 21:59:21 &   2.985 sec &              0.0 &       1.003744 &      0.511684 &           1.007501 \\
+1  &   &  2021-05-30 21:59:21 &   3.031 sec &              5.0 &       0.632786 &      0.322562 &           0.400418 \\
+2  &   &  2021-05-30 21:59:21 &   3.062 sec &             10.0 &       0.379412 &      0.191828 &           0.143953 \\
+3  &   &  2021-05-30 21:59:21 &   3.089 sec &             15.0 &       0.266042 &      0.130690 &           0.070779 \\
+4  &   &  2021-05-30 21:59:21 &   3.119 sec &             20.0 &       0.170559 &      0.084766 &           0.029090 \\
+5  &   &  2021-05-30 21:59:21 &   3.149 sec &             25.0 &       0.107237 &      0.052874 &           0.011500 \\
+6  &   &  2021-05-30 21:59:21 &   3.178 sec &             30.0 &       0.068103 &      0.034534 &           0.004638 \\
+7  &   &  2021-05-30 21:59:21 &   3.218 sec &             35.0 &       0.049018 &      0.025505 &           0.002403 \\
+8  &   &  2021-05-30 21:59:21 &   3.266 sec &             40.0 &       0.035506 &      0.019163 &           0.001261 \\
+9  &   &  2021-05-30 21:59:21 &   3.305 sec &             45.0 &       0.027224 &      0.015500 &           0.000741 \\
+10 &   &  2021-05-30 21:59:21 &   3.337 sec &             50.0 &       0.022099 &      0.013309 &           0.000488 \\
+11 &   &  2021-05-30 21:59:21 &   3.364 sec &             55.0 &       0.019256 &      0.012044 &           0.000371 \\
+12 &   &  2021-05-30 21:59:21 &   3.401 sec &             60.0 &       0.016898 &      0.010737 &           0.000286 \\
+13 &   &  2021-05-30 21:59:21 &   3.431 sec &             65.0 &       0.014967 &      0.009640 &           0.000224 \\
+14 &   &  2021-05-30 21:59:21 &   3.466 sec &             70.0 &       0.013951 &      0.008942 &           0.000195 \\
+15 &   &  2021-05-30 21:59:21 &   3.508 sec &             75.0 &       0.012597 &      0.008105 &           0.000159 \\
+16 &   &  2021-05-30 21:59:21 &   3.530 sec &             78.0 &       0.011916 &      0.007671 &           0.000142 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             78.0 &                      78.0 &              72102.0 &        6.0 &        6.0 &         6.0 &        34.0 &        62.0 &    46.692307 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-31 00:21:45 &   1.924 sec &              0.0 &       2.944663 &      0.752351 &           8.671038 \\
+1 &   &  2021-05-31 00:21:45 &   1.973 sec &              5.0 &       2.147333 &      0.482232 &           4.611040 \\
+2 &   &  2021-05-31 00:21:45 &   2.019 sec &             10.0 &       1.410935 &      0.296270 &           1.990738 \\
+3 &   &  2021-05-31 00:21:45 &   2.065 sec &             15.0 &       0.841190 &      0.190740 &           0.707600 \\
+4 &   &  2021-05-31 00:21:45 &   2.103 sec &             20.0 &       0.502954 &      0.121678 &           0.252963 \\
+5 &   &  2021-05-31 00:21:45 &   2.129 sec &             25.0 &       0.336827 &      0.078098 &           0.113452 \\
+6 &   &  2021-05-31 00:21:45 &   2.154 sec &             30.0 &       0.219539 &      0.051873 &           0.048198 \\
+7 &   &  2021-05-31 00:21:45 &   2.181 sec &             35.0 &       0.156591 &      0.039247 &           0.024521 \\
+8 &   &  2021-05-31 00:21:45 &   2.206 sec &             40.0 &       0.098265 &      0.029937 &           0.009656 \\
+9 &   &  2021-05-31 00:21:45 &   2.211 sec &             41.0 &       0.090522 &      0.029260 &           0.008194 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             41.0 &                      41.0 &              26042.0 &        6.0 &        6.0 &         6.0 &        22.0 &        55.0 &    33.658535 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-31 00:22:12 &   2.396 sec &              0.0 &       2.956392 &      0.761462 &           8.740252 \\
+1  &   &  2021-05-31 00:22:12 &   2.415 sec &              5.0 &       1.781666 &      0.472632 &           3.174332 \\
+2  &   &  2021-05-31 00:22:12 &   2.442 sec &             10.0 &       1.085073 &      0.287398 &           1.177384 \\
+3  &   &  2021-05-31 00:22:12 &   2.463 sec &             15.0 &       0.693929 &      0.192904 &           0.481538 \\
+4  &   &  2021-05-31 00:22:12 &   2.485 sec &             20.0 &       0.418796 &      0.124328 &           0.175390 \\
+5  &   &  2021-05-31 00:22:12 &   2.508 sec &             25.0 &       0.316104 &      0.080290 &           0.099922 \\
+6  &   &  2021-05-31 00:22:12 &   2.538 sec &             30.0 &       0.185661 &      0.051874 &           0.034470 \\
+7  &   &  2021-05-31 00:22:12 &   2.564 sec &             35.0 &       0.122793 &      0.037802 &           0.015078 \\
+8  &   &  2021-05-31 00:22:12 &   2.586 sec &             40.0 &       0.080557 &      0.028559 &           0.006489 \\
+9  &   &  2021-05-31 00:22:12 &   2.614 sec &             45.0 &       0.056996 &      0.023466 &           0.003249 \\
+10 &   &  2021-05-31 00:22:12 &   2.643 sec &             50.0 &       0.047816 &      0.020157 &           0.002286 \\
+11 &   &  2021-05-31 00:22:12 &   2.670 sec &             55.0 &       0.035980 &      0.017627 &           0.001295 \\
+12 &   &  2021-05-31 00:22:12 &   2.687 sec &             58.0 &       0.029465 &      0.015716 &           0.000868 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             58.0 &                      58.0 &              38530.0 &        6.0 &        6.0 &         6.0 &        25.0 &        55.0 &     34.74138 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-31 00:22:20 &   2.510 sec &              0.0 &       1.731156 &      0.626020 &           2.996902 \\
+1  &   &  2021-05-31 00:22:20 &   2.544 sec &              5.0 &       1.081986 &      0.393504 &           1.170694 \\
+2  &   &  2021-05-31 00:22:20 &   2.576 sec &             10.0 &       0.645320 &      0.234670 &           0.416438 \\
+3  &   &  2021-05-31 00:22:20 &   2.605 sec &             15.0 &       0.467298 &      0.160060 &           0.218368 \\
+4  &   &  2021-05-31 00:22:20 &   2.634 sec &             20.0 &       0.309319 &      0.106231 &           0.095678 \\
+5  &   &  2021-05-31 00:22:20 &   2.665 sec &             25.0 &       0.184002 &      0.066294 &           0.033857 \\
+6  &   &  2021-05-31 00:22:20 &   2.699 sec &             30.0 &       0.111228 &      0.042910 &           0.012372 \\
+7  &   &  2021-05-31 00:22:20 &   2.732 sec &             35.0 &       0.072537 &      0.031318 &           0.005262 \\
+8  &   &  2021-05-31 00:22:20 &   2.760 sec &             40.0 &       0.050583 &      0.023907 &           0.002559 \\
+9  &   &  2021-05-31 00:22:20 &   2.791 sec &             45.0 &       0.036565 &      0.019830 &           0.001337 \\
+10 &   &  2021-05-31 00:22:20 &   2.823 sec &             50.0 &       0.028558 &      0.016719 &           0.000816 \\
+11 &   &  2021-05-31 00:22:20 &   2.851 sec &             55.0 &       0.024276 &      0.014979 &           0.000589 \\
+12 &   &  2021-05-31 00:22:20 &   2.891 sec &             60.0 &       0.020020 &      0.012865 &           0.000401 \\
+13 &   &  2021-05-31 00:22:20 &   2.909 sec &             63.0 &       0.018204 &      0.012030 &           0.000331 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             63.0 &                      63.0 &              45940.0 &        6.0 &        6.0 &         6.0 &        25.0 &        55.0 &    36.190475 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-31 08:55:15 &   0.790 sec &              0.0 &       2.924133 &      0.764704 &           8.550555 \\
+1  &   &  2021-05-31 08:55:15 &   0.807 sec &              5.0 &       1.884079 &      0.483334 &           3.549755 \\
+2  &   &  2021-05-31 08:55:15 &   0.824 sec &             10.0 &       1.116383 &      0.287577 &           1.246311 \\
+3  &   &  2021-05-31 08:55:15 &   0.839 sec &             15.0 &       0.708136 &      0.189177 &           0.501456 \\
+4  &   &  2021-05-31 08:55:15 &   0.855 sec &             20.0 &       0.434512 &      0.122207 &           0.188801 \\
+5  &   &  2021-05-31 08:55:15 &   0.871 sec &             25.0 &       0.270964 &      0.077466 &           0.073421 \\
+6  &   &  2021-05-31 08:55:15 &   0.887 sec &             30.0 &       0.169653 &      0.051808 &           0.028782 \\
+7  &   &  2021-05-31 08:55:15 &   0.903 sec &             35.0 &       0.113088 &      0.038742 &           0.012789 \\
+8  &   &  2021-05-31 08:55:15 &   0.919 sec &             40.0 &       0.078470 &      0.030036 &           0.006157 \\
+9  &   &  2021-05-31 08:55:15 &   0.936 sec &             45.0 &       0.056827 &      0.024711 &           0.003229 \\
+10 &   &  2021-05-31 08:55:15 &   0.953 sec &             47.0 &       0.052481 &      0.023157 &           0.002754 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             47.0 &                      47.0 &              30258.0 &        6.0 &        6.0 &         6.0 &        27.0 &        52.0 &    34.531914 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-31 09:37:48 &   2.600 sec &              0.0 &       2.880847 &      0.707028 &           8.299281 \\
+1  &   &  2021-05-31 09:37:48 &   2.637 sec &              5.0 &       1.798241 &      0.438001 &           3.233669 \\
+2  &   &  2021-05-31 09:37:48 &   2.663 sec &             10.0 &       1.120283 &      0.262350 &           1.255034 \\
+3  &   &  2021-05-31 09:37:48 &   2.693 sec &             15.0 &       0.721856 &      0.175794 &           0.521076 \\
+4  &   &  2021-05-31 09:37:48 &   2.724 sec &             20.0 &       0.462451 &      0.114684 &           0.213861 \\
+5  &   &  2021-05-31 09:37:48 &   2.756 sec &             25.0 &       0.275548 &      0.071749 &           0.075926 \\
+6  &   &  2021-05-31 09:37:48 &   2.787 sec &             30.0 &       0.194364 &      0.048417 &           0.037777 \\
+7  &   &  2021-05-31 09:37:48 &   2.815 sec &             35.0 &       0.119489 &      0.035908 &           0.014278 \\
+8  &   &  2021-05-31 09:37:48 &   2.842 sec &             40.0 &       0.089112 &      0.027961 &           0.007941 \\
+9  &   &  2021-05-31 09:37:48 &   2.874 sec &             45.0 &       0.057997 &      0.022921 &           0.003364 \\
+10 &   &  2021-05-31 09:37:49 &   2.905 sec &             50.0 &       0.046663 &      0.020002 &           0.002177 \\
+11 &   &  2021-05-31 09:37:49 &   2.933 sec &             55.0 &       0.035368 &      0.017845 &           0.001251 \\
+12 &   &  2021-05-31 09:37:49 &   2.972 sec &             60.0 &       0.029180 &      0.015377 &           0.000851 \\
+13 &   &  2021-05-31 09:37:49 &   3.001 sec &             65.0 &       0.023241 &      0.013611 &           0.000540 \\
+14 &   &  2021-05-31 09:37:49 &   3.019 sec &             68.0 &       0.021661 &      0.012917 &           0.000469 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             68.0 &                      68.0 &              44065.0 &        6.0 &        6.0 &         6.0 &        24.0 &        56.0 &        34.25 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-31 10:07:38 &   1.161 sec &              0.0 &       1.616925 &      0.589727 &           2.614446 \\
+1  &   &  2021-05-31 10:07:38 &   1.178 sec &              5.0 &       1.053052 &      0.374736 &           1.108918 \\
+2  &   &  2021-05-31 10:07:38 &   1.193 sec &             10.0 &       0.689329 &      0.227284 &           0.475175 \\
+3  &   &  2021-05-31 10:07:38 &   1.208 sec &             15.0 &       0.429611 &      0.156283 &           0.184566 \\
+4  &   &  2021-05-31 10:07:38 &   1.222 sec &             20.0 &       0.271770 &      0.103334 &           0.073859 \\
+5  &   &  2021-05-31 10:07:38 &   1.243 sec &             25.0 &       0.196680 &      0.066346 &           0.038683 \\
+6  &   &  2021-05-31 10:07:38 &   1.257 sec &             30.0 &       0.129099 &      0.044494 &           0.016667 \\
+7  &   &  2021-05-31 10:07:38 &   1.274 sec &             35.0 &       0.097267 &      0.034132 &           0.009461 \\
+8  &   &  2021-05-31 10:07:38 &   1.288 sec &             40.0 &       0.063944 &      0.027093 &           0.004089 \\
+9  &   &  2021-05-31 10:07:38 &   1.303 sec &             45.0 &       0.052922 &      0.022884 &           0.002801 \\
+10 &   &  2021-05-31 10:07:38 &   1.319 sec &             50.0 &       0.042495 &      0.019807 &           0.001806 \\
+11 &   &  2021-05-31 10:07:38 &   1.334 sec &             55.0 &       0.034733 &      0.017989 &           0.001206 \\
+12 &   &  2021-05-31 10:07:38 &   1.351 sec &             60.0 &       0.028092 &      0.015822 &           0.000789 \\
+13 &   &  2021-05-31 10:07:38 &   1.364 sec &             65.0 &       0.024548 &      0.014554 &           0.000603 \\
+14 &   &  2021-05-31 10:07:39 &   1.374 sec &             69.0 &       0.022478 &      0.013878 &           0.000505 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             69.0 &                      69.0 &              43088.0 &        6.0 &        6.0 &         6.0 &        22.0 &        51.0 &    32.608696 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-31 10:13:55 &   1.086 sec &              0.0 &       2.850536 &      0.728613 &           8.125558 \\
+1  &   &  2021-05-31 10:13:55 &   1.099 sec &              5.0 &       2.040301 &      0.464988 &           4.162829 \\
+2  &   &  2021-05-31 10:13:55 &   1.112 sec &             10.0 &       1.265563 &      0.280753 &           1.601651 \\
+3  &   &  2021-05-31 10:13:55 &   1.131 sec &             15.0 &       0.826874 &      0.187817 &           0.683721 \\
+4  &   &  2021-05-31 10:13:55 &   1.142 sec &             20.0 &       0.496710 &      0.122621 &           0.246721 \\
+5  &   &  2021-05-31 10:13:55 &   1.153 sec &             25.0 &       0.336579 &      0.077515 &           0.113285 \\
+6  &   &  2021-05-31 10:13:55 &   1.164 sec &             30.0 &       0.196249 &      0.050046 &           0.038514 \\
+7  &   &  2021-05-31 10:13:55 &   1.184 sec &             35.0 &       0.120777 &      0.036585 &           0.014587 \\
+8  &   &  2021-05-31 10:13:55 &   1.200 sec &             40.0 &       0.086067 &      0.027426 &           0.007408 \\
+9  &   &  2021-05-31 10:13:55 &   1.216 sec &             45.0 &       0.059688 &      0.022709 &           0.003563 \\
+10 &   &  2021-05-31 10:13:55 &   1.230 sec &             50.0 &       0.046422 &      0.019581 &           0.002155 \\
+11 &   &  2021-05-31 10:13:55 &   1.244 sec &             55.0 &       0.036659 &      0.017413 &           0.001344 \\
+12 &   &  2021-05-31 10:13:55 &   1.260 sec &             60.0 &       0.027847 &      0.015036 &           0.000775 \\
+13 &   &  2021-05-31 10:13:55 &   1.268 sec &             63.0 &       0.024200 &      0.014233 &           0.000586 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             63.0 &                      63.0 &              42760.0 &        6.0 &        6.0 &         6.0 &        24.0 &        57.0 &    35.365078 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{ll}
+\toprule
+{} &                   Placeholder \\
+\midrule
+0 &  Stackensenble has no summary \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{ll}
+\toprule
+{} &                   Placeholder \\
+\midrule
+0 &  Stackensenble has no summary \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{ll}
+\toprule
+{} &                   Placeholder \\
+\midrule
+0 &  Stackensenble has no summary \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{ll}
+\toprule
+{} &                   Placeholder \\
+\midrule
+0 &  Stackensenble has no summary \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{ll}
+\toprule
+{} &                   Placeholder \\
+\midrule
+0 &  Stackensenble has no summary \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{ll}
+\toprule
+{} &                   Placeholder \\
+\midrule
+0 &  Stackensenble has no summary \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-29 20:47:31 &   4.231 sec &              0.0 &       2.853639 &      0.650786 &           8.143255 \\
+1 &   &  2021-05-29 20:47:31 &   4.255 sec &              5.0 &       0.573997 &      0.119035 &           0.329473 \\
+2 &   &  2021-05-29 20:47:31 &   4.273 sec &             10.0 &       0.121373 &      0.030895 &           0.014731 \\
+3 &   &  2021-05-29 20:47:31 &   4.291 sec &             15.0 &       0.033826 &      0.015039 &           0.001144 \\
+4 &   &  2021-05-29 20:47:31 &   4.309 sec &             20.0 &       0.020698 &      0.011894 &           0.000428 \\
+5 &   &  2021-05-29 20:47:31 &   4.327 sec &             25.0 &       0.016592 &      0.009884 &           0.000275 \\
+6 &   &  2021-05-29 20:47:31 &   4.344 sec &             30.0 &       0.013903 &      0.008060 &           0.000193 \\
+7 &   &  2021-05-29 20:47:31 &   4.360 sec &             35.0 &       0.012364 &      0.007198 &           0.000153 \\
+8 &   &  2021-05-29 20:47:31 &   4.373 sec &             38.0 &       0.011871 &      0.006958 &           0.000141 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             38.0 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-30 16:28:53 &   6.838 sec &              0.0 &       2.964806 &      0.672312 &           8.790072 \\
+1 &   &  2021-05-30 16:28:53 &   6.864 sec &              5.0 &       0.594553 &      0.125948 &           0.353494 \\
+2 &   &  2021-05-30 16:28:53 &   6.887 sec &             10.0 &       0.124019 &      0.031424 &           0.015381 \\
+3 &   &  2021-05-30 16:28:53 &   6.907 sec &             15.0 &       0.034873 &      0.014993 &           0.001216 \\
+4 &   &  2021-05-30 16:28:53 &   6.927 sec &             20.0 &       0.021104 &      0.011647 &           0.000445 \\
+5 &   &  2021-05-30 16:28:53 &   6.946 sec &             25.0 &       0.016740 &      0.009918 &           0.000280 \\
+6 &   &  2021-05-30 16:28:53 &   6.972 sec &             30.0 &       0.013664 &      0.008352 &           0.000187 \\
+7 &   &  2021-05-30 16:28:53 &   6.993 sec &             34.0 &       0.012323 &      0.007568 &           0.000152 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             34.0 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-30 21:47:43 &   5.428 sec &              0.0 &       2.890439 &      0.646297 &           8.354640 \\
+1 &   &  2021-05-30 21:47:43 &   5.475 sec &              5.0 &       0.591295 &      0.119694 &           0.349629 \\
+2 &   &  2021-05-30 21:47:43 &   5.497 sec &             10.0 &       0.124677 &      0.031710 &           0.015544 \\
+3 &   &  2021-05-30 21:47:43 &   5.542 sec &             15.0 &       0.034458 &      0.014979 &           0.001187 \\
+4 &   &  2021-05-30 21:47:43 &   5.568 sec &             20.0 &       0.019121 &      0.011368 &           0.000366 \\
+5 &   &  2021-05-30 21:47:43 &   5.599 sec &             25.0 &       0.016040 &      0.009557 &           0.000257 \\
+6 &   &  2021-05-30 21:47:43 &   5.622 sec &             30.0 &       0.013133 &      0.008305 &           0.000172 \\
+7 &   &  2021-05-30 21:47:43 &   5.640 sec &             35.0 &       0.011734 &      0.007750 &           0.000138 \\
+8 &   &  2021-05-30 21:47:43 &   5.651 sec &             37.0 &       0.011473 &      0.007442 &           0.000132 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             37.0 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-30 23:18:50 &   4.089 sec &              0.0 &       2.888793 &      0.655233 &           8.345122 \\
+1 &   &  2021-05-30 23:18:50 &   4.112 sec &              5.0 &       0.587422 &      0.120993 &           0.345065 \\
+2 &   &  2021-05-30 23:18:50 &   4.132 sec &             10.0 &       0.125913 &      0.031389 &           0.015854 \\
+3 &   &  2021-05-30 23:18:50 &   4.151 sec &             15.0 &       0.034682 &      0.016489 &           0.001203 \\
+4 &   &  2021-05-30 23:18:50 &   4.172 sec &             20.0 &       0.020435 &      0.012189 &           0.000418 \\
+5 &   &  2021-05-30 23:18:50 &   4.188 sec &             25.0 &       0.016647 &      0.009890 &           0.000277 \\
+6 &   &  2021-05-30 23:18:50 &   4.204 sec &             30.0 &       0.014427 &      0.008697 &           0.000208 \\
+7 &   &  2021-05-30 23:18:50 &   4.213 sec &             32.0 &       0.013330 &      0.008173 &           0.000178 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             32.0 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-31 07:33:53 &   6.760 sec &              0.0 &       2.905647 &      0.668525 &           8.442782 \\
+1 &   &  2021-05-31 07:33:53 &   6.794 sec &              5.0 &       0.590456 &      0.134790 &           0.348639 \\
+2 &   &  2021-05-31 07:33:53 &   6.828 sec &             10.0 &       0.128450 &      0.038595 &           0.016499 \\
+3 &   &  2021-05-31 07:33:53 &   6.859 sec &             15.0 &       0.043962 &      0.020897 &           0.001933 \\
+4 &   &  2021-05-31 07:33:53 &   6.883 sec &             20.0 &       0.029931 &      0.016393 &           0.000896 \\
+5 &   &  2021-05-31 07:33:53 &   6.902 sec &             25.0 &       0.025138 &      0.014014 &           0.000632 \\
+6 &   &  2021-05-31 07:33:53 &   6.920 sec &             30.0 &       0.021779 &      0.012124 &           0.000474 \\
+7 &   &  2021-05-31 07:33:53 &   6.937 sec &             35.0 &       0.019250 &      0.010755 &           0.000371 \\
+8 &   &  2021-05-31 07:33:53 &   6.956 sec &             40.0 &       0.016247 &      0.009463 &           0.000264 \\
+9 &   &  2021-05-31 07:33:53 &   6.979 sec &             45.0 &       0.015147 &      0.008590 &           0.000229 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             45.0 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-31 08:50:29 &   6.219 sec &              0.0 &       2.718091 &      0.631794 &           7.388021 \\
+1 &   &  2021-05-31 08:50:29 &   6.300 sec &              5.0 &       0.548977 &      0.127823 &           0.301376 \\
+2 &   &  2021-05-31 08:50:29 &   6.362 sec &             10.0 &       0.120308 &      0.038349 &           0.014474 \\
+3 &   &  2021-05-31 08:50:29 &   6.410 sec &             15.0 &       0.042852 &      0.020866 &           0.001836 \\
+4 &   &  2021-05-31 08:50:29 &   6.456 sec &             20.0 &       0.027883 &      0.016176 &           0.000777 \\
+5 &   &  2021-05-31 08:50:29 &   6.490 sec &             25.0 &       0.025150 &      0.014667 &           0.000633 \\
+6 &   &  2021-05-31 08:50:29 &   6.523 sec &             30.0 &       0.023194 &      0.013566 &           0.000538 \\
+7 &   &  2021-05-31 08:50:29 &   6.560 sec &             35.0 &       0.020446 &      0.011849 &           0.000418 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             35.0 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-31 08:54:52 &   3.261 sec &              0.0 &       2.604047 &      0.604234 &           6.781060 \\
+1 &   &  2021-05-31 08:54:52 &   3.281 sec &              5.0 &       0.523298 &      0.110133 &           0.273841 \\
+2 &   &  2021-05-31 08:54:52 &   3.299 sec &             10.0 &       0.109172 &      0.026541 &           0.011919 \\
+3 &   &  2021-05-31 08:54:52 &   3.318 sec &             15.0 &       0.028237 &      0.011980 &           0.000797 \\
+4 &   &  2021-05-31 08:54:52 &   3.335 sec &             20.0 &       0.016144 &      0.009359 &           0.000261 \\
+5 &   &  2021-05-31 08:54:52 &   3.354 sec &             25.0 &       0.013994 &      0.008502 &           0.000196 \\
+6 &   &  2021-05-31 08:54:52 &   3.372 sec &             30.0 &       0.012254 &      0.007513 &           0.000150 \\
+7 &   &  2021-05-31 08:54:52 &   3.380 sec &             32.0 &       0.011615 &      0.007197 &           0.000135 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             32.0 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-31 10:57:10 &   3.426 sec &              0.0 &       2.682983 &      0.640063 &           7.198396 \\
+1 &   &  2021-05-31 10:57:10 &   3.446 sec &              5.0 &       0.537254 &      0.116827 &           0.288642 \\
+2 &   &  2021-05-31 10:57:10 &   3.465 sec &             10.0 &       0.112202 &      0.029331 &           0.012589 \\
+3 &   &  2021-05-31 10:57:10 &   3.484 sec &             15.0 &       0.031414 &      0.014081 &           0.000987 \\
+4 &   &  2021-05-31 10:57:10 &   3.502 sec &             20.0 &       0.019589 &      0.011198 &           0.000384 \\
+5 &   &  2021-05-31 10:57:10 &   3.521 sec &             25.0 &       0.016743 &      0.009779 &           0.000280 \\
+6 &   &  2021-05-31 10:57:10 &   3.547 sec &             30.0 &       0.014383 &      0.008303 &           0.000207 \\
+7 &   &  2021-05-31 10:57:10 &   3.561 sec &             33.0 &       0.013664 &      0.007539 &           0.000187 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llr}
+\toprule
+{} &  number\_of\_trees \\
+\midrule
+0 &   &             33.0 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-30 16:57:56 &   4.707 sec &              0.0 &            NaN &           NaN &                NaN \\
+1  &   &  2021-05-30 16:57:56 &   4.786 sec &              5.0 &       2.026926 &      0.282933 &           4.108431 \\
+2  &   &  2021-05-30 16:57:56 &   4.865 sec &             10.0 &       2.005606 &      0.245561 &           4.022454 \\
+3  &   &  2021-05-30 16:57:56 &   4.948 sec &             15.0 &       1.711959 &      0.246673 &           2.930805 \\
+4  &   &  2021-05-30 16:57:56 &   5.022 sec &             20.0 &       1.853442 &      0.259489 &           3.435247 \\
+5  &   &  2021-05-30 16:57:56 &   5.116 sec &             25.0 &       1.708985 &      0.222806 &           2.920630 \\
+6  &   &  2021-05-30 16:57:57 &   5.192 sec &             30.0 &       1.753106 &      0.240194 &           3.073380 \\
+7  &   &  2021-05-30 16:57:57 &   5.298 sec &             35.0 &       1.733276 &      0.224414 &           3.004246 \\
+8  &   &  2021-05-30 16:57:57 &   5.403 sec &             40.0 &       1.750131 &      0.219099 &           3.062957 \\
+9  &   &  2021-05-30 16:57:57 &   5.501 sec &             45.0 &       1.624458 &      0.213011 &           2.638864 \\
+10 &   &  2021-05-30 16:57:57 &   5.521 sec &             46.0 &       1.596075 &      0.209842 &           2.547455 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             46.0 &                      46.0 &             357210.0 &       20.0 &       20.0 &        20.0 &       177.0 &       693.0 &     408.4565 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-30 17:34:01 &   3.095 sec &              0.0 &            NaN &           NaN &                NaN \\
+1 &   &  2021-05-30 17:34:01 &   3.152 sec &              5.0 &       1.276513 &      0.315074 &           1.629486 \\
+2 &   &  2021-05-30 17:34:01 &   3.208 sec &             10.0 &       1.230255 &      0.249652 &           1.513528 \\
+3 &   &  2021-05-30 17:34:01 &   3.258 sec &             15.0 &       1.318833 &      0.245236 &           1.739320 \\
+4 &   &  2021-05-30 17:34:01 &   3.306 sec &             20.0 &       1.470574 &      0.255695 &           2.162589 \\
+5 &   &  2021-05-30 17:34:01 &   3.362 sec &             25.0 &       1.544290 &      0.230590 &           2.384831 \\
+6 &   &  2021-05-30 17:34:01 &   3.415 sec &             30.0 &       1.505078 &      0.224063 &           2.265259 \\
+7 &   &  2021-05-30 17:34:01 &   3.499 sec &             35.0 &       1.465064 &      0.199557 &           2.146412 \\
+8 &   &  2021-05-30 17:34:01 &   3.544 sec &             40.0 &       1.393852 &      0.200905 &           1.942824 \\
+9 &   &  2021-05-30 17:34:01 &   3.592 sec &             44.0 &       1.417087 &      0.208352 &           2.008136 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             44.0 &                      44.0 &             344336.0 &       20.0 &       20.0 &        20.0 &       176.0 &       613.0 &    411.81818 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-30 23:06:43 &   3.049 sec &              0.0 &            NaN &           NaN &                NaN \\
+1 &   &  2021-05-30 23:06:43 &   3.130 sec &              5.0 &       1.847803 &      0.322250 &           3.414376 \\
+2 &   &  2021-05-30 23:06:43 &   3.194 sec &             10.0 &       1.619596 &      0.279575 &           2.623091 \\
+3 &   &  2021-05-30 23:06:43 &   3.259 sec &             15.0 &       1.667827 &      0.269134 &           2.781647 \\
+4 &   &  2021-05-30 23:06:43 &   3.317 sec &             20.0 &       1.704226 &      0.266277 &           2.904385 \\
+5 &   &  2021-05-30 23:06:43 &   3.382 sec &             25.0 &       1.698372 &      0.244975 &           2.884466 \\
+6 &   &  2021-05-30 23:06:43 &   3.442 sec &             30.0 &       1.635767 &      0.236547 &           2.675733 \\
+7 &   &  2021-05-30 23:06:43 &   3.506 sec &             35.0 &       1.628837 &      0.229126 &           2.653111 \\
+8 &   &  2021-05-30 23:06:43 &   3.558 sec &             40.0 &       1.596882 &      0.230076 &           2.550031 \\
+9 &   &  2021-05-30 23:06:43 &   3.615 sec &             45.0 &       1.584170 &      0.227217 &           2.509594 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             45.0 &                      45.0 &             369706.0 &       20.0 &       20.0 &        20.0 &       242.0 &       653.0 &    428.06668 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-31 00:20:39 &   4.287 sec &              0.0 &            NaN &           NaN &                NaN \\
+1 &   &  2021-05-31 00:20:39 &   4.366 sec &              5.0 &       1.559101 &      0.300564 &           2.430795 \\
+2 &   &  2021-05-31 00:20:39 &   4.448 sec &             10.0 &       0.966349 &      0.220895 &           0.933830 \\
+3 &   &  2021-05-31 00:20:40 &   4.551 sec &             15.0 &       1.435867 &      0.214959 &           2.061713 \\
+4 &   &  2021-05-31 00:20:40 &   4.649 sec &             20.0 &       1.577709 &      0.214349 &           2.489167 \\
+5 &   &  2021-05-31 00:20:40 &   4.744 sec &             25.0 &       1.554384 &      0.187483 &           2.416110 \\
+6 &   &  2021-05-31 00:20:40 &   4.835 sec &             30.0 &       1.614208 &      0.186709 &           2.605668 \\
+7 &   &  2021-05-31 00:20:40 &   4.901 sec &             35.0 &       1.622351 &      0.180526 &           2.632024 \\
+8 &   &  2021-05-31 00:20:40 &   4.982 sec &             40.0 &       1.479984 &      0.178409 &           2.190353 \\
+9 &   &  2021-05-31 00:20:40 &   5.020 sec &             42.0 &       1.367559 &      0.172835 &           1.870217 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             42.0 &                      42.0 &             352284.0 &       20.0 &       20.0 &        20.0 &       319.0 &       596.0 &     441.2143 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-31 07:30:32 &   5.315 sec &              0.0 &            NaN &           NaN &                NaN \\
+1 &   &  2021-05-31 07:30:33 &   5.425 sec &              5.0 &       2.206593 &      0.286932 &           4.869053 \\
+2 &   &  2021-05-31 07:30:33 &   5.545 sec &             10.0 &       1.114580 &      0.208867 &           1.242288 \\
+3 &   &  2021-05-31 07:30:33 &   5.652 sec &             15.0 &       1.074603 &      0.200823 &           1.154772 \\
+4 &   &  2021-05-31 07:30:33 &   5.768 sec &             20.0 &       1.330210 &      0.198577 &           1.769459 \\
+5 &   &  2021-05-31 07:30:33 &   5.878 sec &             25.0 &       1.315972 &      0.194147 &           1.731782 \\
+6 &   &  2021-05-31 07:30:33 &   5.972 sec &             30.0 &       1.452955 &      0.198289 &           2.111079 \\
+7 &   &  2021-05-31 07:30:33 &   6.064 sec &             35.0 &       1.434042 &      0.178355 &           2.056476 \\
+8 &   &  2021-05-31 07:30:33 &   6.135 sec &             40.0 &       1.350277 &      0.175389 &           1.823247 \\
+9 &   &  2021-05-31 07:30:33 &   6.165 sec &             42.0 &       1.313014 &      0.171861 &           1.724005 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             42.0 &                      42.0 &             356078.0 &       20.0 &       20.0 &        20.0 &       268.0 &       615.0 &    440.90475 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-31 07:32:35 &   5.397 sec &              0.0 &            NaN &           NaN &                NaN \\
+1 &   &  2021-05-31 07:32:35 &   5.543 sec &              5.0 &       1.896861 &      0.240241 &           3.598081 \\
+2 &   &  2021-05-31 07:32:36 &   5.658 sec &             10.0 &       1.529265 &      0.234974 &           2.338652 \\
+3 &   &  2021-05-31 07:32:36 &   5.745 sec &             15.0 &       1.405375 &      0.212436 &           1.975079 \\
+4 &   &  2021-05-31 07:32:36 &   5.869 sec &             20.0 &       1.431124 &      0.223508 &           2.048116 \\
+5 &   &  2021-05-31 07:32:36 &   5.987 sec &             25.0 &       1.454204 &      0.203033 &           2.114710 \\
+6 &   &  2021-05-31 07:32:36 &   6.091 sec &             30.0 &       1.529142 &      0.201942 &           2.338276 \\
+7 &   &  2021-05-31 07:32:36 &   6.211 sec &             35.0 &       1.472745 &      0.192887 &           2.168978 \\
+8 &   &  2021-05-31 07:32:36 &   6.328 sec &             40.0 &       1.502466 &      0.206723 &           2.257403 \\
+9 &   &  2021-05-31 07:32:36 &   6.451 sec &             44.0 &       1.553453 &      0.203928 &           2.413215 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             44.0 &                      44.0 &             364757.0 &       20.0 &       20.0 &        20.0 &       222.0 &       714.0 &    429.04544 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0 &   &  2021-05-31 08:50:53 &   2.712 sec &              0.0 &            NaN &           NaN &                NaN \\
+1 &   &  2021-05-31 08:50:53 &   2.834 sec &              5.0 &       0.677070 &      0.222217 &           0.458424 \\
+2 &   &  2021-05-31 08:50:53 &   2.925 sec &             10.0 &       0.819735 &      0.194657 &           0.671965 \\
+3 &   &  2021-05-31 08:50:53 &   2.990 sec &             15.0 &       0.930701 &      0.194400 &           0.866205 \\
+4 &   &  2021-05-31 08:50:53 &   3.045 sec &             20.0 &       1.189217 &      0.213635 &           1.414237 \\
+5 &   &  2021-05-31 08:50:53 &   3.099 sec &             25.0 &       1.443962 &      0.205830 &           2.085025 \\
+6 &   &  2021-05-31 08:50:53 &   3.156 sec &             30.0 &       1.558612 &      0.207539 &           2.429271 \\
+7 &   &  2021-05-31 08:50:53 &   3.217 sec &             35.0 &       1.401872 &      0.190742 &           1.965245 \\
+8 &   &  2021-05-31 08:50:53 &   3.266 sec &             40.0 &       1.366630 &      0.198126 &           1.867678 \\
+9 &   &  2021-05-31 08:50:53 &   3.320 sec &             45.0 &       1.269034 &      0.186154 &           1.610447 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             45.0 &                      45.0 &             418332.0 &       20.0 &       20.0 &        20.0 &       309.0 &       603.0 &     447.0889 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{lr}
+\toprule
+Empty DataFrame
+Columns: Index(['MSE'], dtype='object')
+Index: RangeIndex(start=0, stop=0, step=1) \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llllrrrr}
+\toprule
+{} &            timestamp &    duration &  number\_of\_trees &  training\_rmse &  training\_mae &  training\_deviance \\
+\midrule
+0  &   &  2021-05-31 10:18:57 &   4.130 sec &              0.0 &            NaN &           NaN &                NaN \\
+1  &   &  2021-05-31 10:18:57 &   4.241 sec &              5.0 &       1.386890 &      0.245546 &           1.923465 \\
+2  &   &  2021-05-31 10:18:58 &   4.358 sec &             10.0 &       1.677806 &      0.223748 &           2.815034 \\
+3  &   &  2021-05-31 10:18:58 &   4.471 sec &             15.0 &       1.610954 &      0.223703 &           2.595171 \\
+4  &   &  2021-05-31 10:18:58 &   4.563 sec &             20.0 &       1.845323 &      0.239278 &           3.405216 \\
+5  &   &  2021-05-31 10:18:58 &   4.681 sec &             25.0 &       1.727239 &      0.207763 &           2.983354 \\
+6  &   &  2021-05-31 10:18:58 &   4.795 sec &             30.0 &       1.761624 &      0.228542 &           3.103319 \\
+7  &   &  2021-05-31 10:18:58 &   4.872 sec &             35.0 &       1.604412 &      0.211747 &           2.574137 \\
+8  &   &  2021-05-31 10:18:58 &   4.937 sec &             40.0 &       1.535570 &      0.206328 &           2.357974 \\
+9  &   &  2021-05-31 10:18:58 &   4.996 sec &             45.0 &       1.485733 &      0.201535 &           2.207402 \\
+10 &   &  2021-05-31 10:18:58 &   5.068 sec &             50.0 &       1.511343 &      0.194559 &           2.284158 \\
+\bottomrule
+\end{tabular}
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             50.0 &                      50.0 &             433864.0 &       20.0 &       20.0 &        20.0 &       233.0 &       636.0 &       425.26 \\
+\bottomrule
+\end{tabular}

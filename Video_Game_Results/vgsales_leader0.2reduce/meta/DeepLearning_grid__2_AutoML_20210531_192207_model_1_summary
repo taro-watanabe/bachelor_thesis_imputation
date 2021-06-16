@@ -1,0 +1,10 @@
+\begin{tabular}{llrrlllllllllll}
+\toprule
+{} &  layer &  units &              type & dropout &   l1 &   l2 & mean\_rate &  rate\_rms & momentum & mean\_weight & weight\_rms & mean\_bias &  bias\_rms \\
+\midrule
+0 &   &      1 &    149 &             Input &    20.0 &      &      &           &           &          &             &            &           &           \\
+1 &   &      2 &     50 &  RectifierDropout &    40.0 &  0.0 &  0.0 &  0.379439 &  0.386294 &      0.0 &   -0.080842 &   0.337225 &  6.032199 &  14.46669 \\
+2 &   &      3 &     50 &  RectifierDropout &    40.0 &  0.0 &  0.0 &  0.052106 &  0.164638 &      0.0 &    0.024929 &   0.368931 &  1.092716 &  0.363234 \\
+3 &   &      4 &      1 &            Linear &         &  0.0 &  0.0 &  0.001414 &   0.00161 &      0.0 &    0.098574 &   0.247281 & -0.018431 &       0.0 \\
+\bottomrule
+\end{tabular}

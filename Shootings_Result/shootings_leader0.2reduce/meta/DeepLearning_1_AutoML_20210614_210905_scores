@@ -1,0 +1,9 @@
+\begin{tabular}{lllllrrrrrrrrr}
+\toprule
+{} &            timestamp &    duration & training\_speed &     epochs &  iterations &  samples &  training\_rmse &  training\_logloss &  training\_r2 &  training\_classification\_error &  training\_auc &  training\_pr\_auc \\
+\midrule
+0 &   &  2021-06-14 21:09:20 &   0.000 sec &           None &   0.000000 &           0 &      0.0 &            NaN &               NaN &          NaN &                            NaN &           NaN &              NaN \\
+1 &   &  2021-06-14 21:09:20 &   0.167 sec &  23000 obs/sec &   0.821429 &           1 &     23.0 &       0.969587 &          8.581191 &     0.969437 &                       0.928571 &           NaN &              NaN \\
+2 &   &  2021-06-14 21:09:20 &   0.181 sec &  22785 obs/sec &  11.392857 &          11 &    319.0 &       0.928424 &          3.611124 &     0.971977 &                       0.892857 &           NaN &              NaN \\
+\bottomrule
+\end{tabular}

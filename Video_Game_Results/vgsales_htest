@@ -1,0 +1,23 @@
+\begin{tabular}{llllllll}
+\toprule
+{} &   p-value & Lower &           1\% &           5\% &          10\% & rate &        method \\
+\midrule
+0  &           &       &              &              &              &      &               \\
+1  &  0.045321 &   Yes &            - &  Significant &  Significant &   1\% &        Remove \\
+2  &  0.023938 &   Yes &            - &  Significant &  Significant &   1\% &  Forward Fill \\
+3  &  0.001641 &   Yes &  Significant &  Significant &  Significant &   1\% &          Mode \\
+4  &  0.015444 &   Yes &            - &  Significant &  Significant &   1\% &          Mean \\
+5  &  0.102422 &   Yes &            - &            - &            - &   5\% &        Remove \\
+6  &  0.049091 &   Yes &            - &  Significant &  Significant &   5\% &  Forward Fill \\
+7  &  0.000003 &   Yes &  Significant &  Significant &  Significant &   5\% &          Mode \\
+8  &  0.017942 &   Yes &            - &  Significant &  Significant &   5\% &          Mean \\
+9  &  0.204838 &   Yes &            - &            - &            - &  10\% &        Remove \\
+10 &  0.000111 &   Yes &  Significant &  Significant &  Significant &  10\% &  Forward Fill \\
+11 &  0.000593 &   Yes &  Significant &  Significant &  Significant &  10\% &          Mode \\
+12 &  0.127025 &   Yes &            - &            - &            - &  10\% &          Mean \\
+13 &  0.248131 &   Yes &            - &            - &            - &  20\% &        Remove \\
+14 &  0.013159 &   Yes &            - &  Significant &  Significant &  20\% &  Forward Fill \\
+15 &  0.016304 &   Yes &            - &  Significant &  Significant &  20\% &          Mode \\
+16 &  0.219484 &   Yes &            - &            - &            - &  20\% &          Mean \\
+\bottomrule
+\end{tabular}

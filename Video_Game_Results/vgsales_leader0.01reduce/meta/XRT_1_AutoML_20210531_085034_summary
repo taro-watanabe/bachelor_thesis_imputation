@@ -1,0 +1,7 @@
+\resizebox{\textheight}{!}{\resizebox{\textheight}{!}{\begin{tabular}{llrrrrrrrrr}
+\toprule
+{} &  number\_of\_trees &  number\_of\_internal\_trees &  model\_size\_in\_bytes &  min\_depth &  max\_depth &  mean\_depth &  min\_leaves &  max\_leaves &  mean\_leaves \\
+\midrule
+0 &   &             45.0 &                      45.0 &             418332.0 &       20.0 &       20.0 &        20.0 &       309.0 &       603.0 &     447.0889 \\
+\bottomrule
+\end{tabular}}}

@@ -1,0 +1,7 @@
+\begin{tabular}{llllllrlrl}
+\toprule
+{} &    family &      link &               regularization &                                                          lambda\_search &  number\_of\_predictors\_total & number\_of\_active\_predictors &  number\_of\_iterations &                    training\_frame \\
+\midrule
+0 &   &  gaussian &  identity &  Ridge ( lambda = 0.009307 ) &  nlambda = 30, lambda.max = 67.743, lambda.min = 0.009307, lambda.1... &                         167 &                         167 &                    29 &  automl\_training\_py\_1309\_sid\_890d \\
+\bottomrule
+\end{tabular}
